@@ -8,7 +8,7 @@
 | Project Title | Laboratory Access Control System |
 | Group Number | [Add group number] |
 | Group Members | [Add verified names and index numbers] |
-| GitHub Repository | [Add repository link after publication] |
+| GitHub Repository | https://github.com/josephasamoah/BEE208-Laboratory-Access-Control-System |
 | Date Submitted | [Add submission date] |
 
 ## 1. Introduction
