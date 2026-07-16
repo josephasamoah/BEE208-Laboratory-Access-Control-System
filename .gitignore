@@ -1,0 +1,6 @@
+laboratory_access
+laboratory_access.exe
+*.o
+*.obj
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+Timestamp | Full Name | ID Number | Role | Status | Condition
+--------------------------------------------------------------------------
+2026-07-16 17:14:42 | Ama Mensah | BEE208/045/2026 | Student | Access Granted | Standard Access
+2026-07-16 17:14:42 | Akosua Nyarko | VIS/008 | Visitor | Access Granted | Supervision Required
