@@ -10,7 +10,7 @@ The names and index numbers below have been provided for Group 1.11. Replace eac
 | Arnold | 01242282B | To be confirmed |
 | Sogbo Prosper Kekeli | 01245631B | To be confirmed |
 | Quawu Micheal | 01242801B | To be confirmed |
-| [Add remaining member] | [Add index number] | To be confirmed |
+| Detema Donne | 012443626 | To be confirmed |
 
 ## GitHub Profiles
 
@@ -19,6 +19,7 @@ The names and index numbers below have been provided for Group 1.11. Replace eac
 - Arnold: [@comparerarnoldsteeve-prog](https://github.com/comparerarnoldsteeve-prog)
 - Sogbo Prosper Kekeli: [@Prosperkeke56](https://github.com/Prosperkeke56)
 - Quawu Micheal: [@qwawumicheal79-oss](https://github.com/qwawumicheal79-oss)
+- Detema Donne: [@DetemaDonne](https://github.com/DetemaDonne)
 
 ## Contribution Declaration
 

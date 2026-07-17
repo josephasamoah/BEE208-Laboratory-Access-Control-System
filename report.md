@@ -7,7 +7,7 @@
 | Course Code | BEE 208 |
 | Project Title | Laboratory Access Control System |
 | Group Number | 1.11 |
-| Group Members | Afloe Derrick Tetteh — 01243621B<br>Joseph Oppong — 01242622B<br>Arnold — 01242282B<br>Sogbo Prosper Kekeli — 01245631B<br>Quawu Micheal — 01242801B<br>[Add remaining member and index number] |
+| Group Members | Afloe Derrick Tetteh — 01243621B<br>Joseph Oppong — 01242622B<br>Arnold — 01242282B<br>Sogbo Prosper Kekeli — 01245631B<br>Quawu Micheal — 01242801B<br>Detema Donne — 012443626 |
 | GitHub Repository | https://github.com/josephasamoah/BEE208-Laboratory-Access-Control-System |
 | Date Submitted | [Add submission date] |
 

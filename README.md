@@ -19,7 +19,7 @@ A terminal-based C++ application that verifies laboratory access codes, limits u
 | Arnold | 01242282B | [@comparerarnoldsteeve-prog](https://github.com/comparerarnoldsteeve-prog) |
 | Sogbo Prosper Kekeli | 01245631B | [@Prosperkeke56](https://github.com/Prosperkeke56) |
 | Quawu Micheal | 01242801B | [@qwawumicheal79-oss](https://github.com/qwawumicheal79-oss) |
-| [Add remaining member] | [Add index number] | [Add GitHub profile] |
+| Detema Donne | 012443626 | [@DetemaDonne](https://github.com/DetemaDonne) |
 
 ## Features
 
