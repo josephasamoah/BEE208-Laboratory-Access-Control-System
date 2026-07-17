@@ -6,7 +6,7 @@ A terminal-based C++ application that verifies laboratory access codes, limits u
 
 - **Course:** BEE 208
 - **Project:** Mid-Semester Practical Project Examination — Question 11
-- **Group number:** 17
+- **Group number:** 1.11
 - **Approved access code:** `BEE208LAB`
 - **Language standard:** C++17
 

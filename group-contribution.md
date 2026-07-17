@@ -1,6 +1,6 @@
 # Group Contribution
 
-The names and index numbers below have been provided for Group 17. Replace each
+The names and index numbers below have been provided for Group 1.11. Replace each
 “To be confirmed” entry with the member’s actual contribution before submission.
 
 | Student Name | Index Number | Role / Contribution |
