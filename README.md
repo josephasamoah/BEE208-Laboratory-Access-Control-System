@@ -42,6 +42,7 @@ BEE208-Laboratory-Access-Control-System/
 ├── pseudocode.md
 ├── flowchart.png
 ├── report.md
+├── BEE208-Laboratory-Access-Control-System-Presentation.pptx
 ├── sample-output.png
 ├── test-data.md
 ├── access_log.txt
@@ -92,6 +93,7 @@ The `AccessUser` class stores each user’s identity, role, access state, attemp
 - [Flowchart](flowchart.png)
 - [Test data](test-data.md)
 - [Full report](report.md)
+- [Presentation deck](BEE208-Laboratory-Access-Control-System-Presentation.pptx)
 - [Group contribution template](group-contribution.md)
 
 ## Sample Output
