@@ -6,9 +6,20 @@ A terminal-based C++ application that verifies laboratory access codes, limits u
 
 - **Course:** BEE 208
 - **Project:** Mid-Semester Practical Project Examination — Question 11
-- **Group number:** [Add group number]
+- **Group number:** 17
 - **Approved access code:** `BEE208LAB`
 - **Language standard:** C++17
+
+## Group Members
+
+| Student Name | Index Number | GitHub |
+|---|---|---|
+| Afloe Derrick Tetteh | 01243621B | [@afloederrick1-blip](https://github.com/afloederrick1-blip) |
+| Joseph Oppong | 01242622B | Profile required |
+| Arnold | 01242282B | [@comparerarnoldsteeve-prog](https://github.com/comparerarnoldsteeve-prog) |
+| Sogbo Prosper Kekeli | 01245631B | [@Prosperkeke56](https://github.com/Prosperkeke56) |
+| Quawu Micheal | 01242801B | [@qwawumicheal79-oss](https://github.com/qwawumicheal79-oss) |
+| [Add remaining member] | [Add index number] | [Add GitHub profile] |
 
 ## Features
 
