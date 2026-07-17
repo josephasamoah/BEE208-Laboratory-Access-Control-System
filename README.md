@@ -94,6 +94,8 @@ The `AccessUser` class stores each user’s identity, role, access state, attemp
 - [Test data](test-data.md)
 - [Full report](report.md)
 - [Presentation deck](BEE208-Laboratory-Access-Control-System-Presentation.pptx)
+- [Presentation script](presentation-script.md)
+- [Screen-sharing action guide](presentation-actions.md)
 - [Group contribution template](group-contribution.md)
 
 ## Sample Output
